@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanaul Ansari
 - 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning git and github.
+- 🌱 I have done fullstack development.
 - 💞️ I’m looking a opportunity for starting my career in Front-End Development
 - 📫 How to reach me : ansarcode09@gmail.com
 
