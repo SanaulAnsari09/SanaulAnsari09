@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Sanaul Ansari
-- 👀 I’m interested in FrontEnd Development
-- 🌱 I have done fullstack development.
-- 💞️ I’m looking a opportunity for starting my career in Front-End Development
-- 📫 How to reach me : ansarcode09@gmail.com
+I am a Front-End developer. Currently I have completed my internshipt at softmind as React Developer I have 6 months of Experience in Front-End Developme. Currently I am looking an opportunity to quick start my career. 
 
 <!---
 SanaulAnsari09/SanaulAnsari09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
