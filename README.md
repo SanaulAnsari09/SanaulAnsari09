@@ -1,11 +1,11 @@
-👋 Hi, I'm a MERN Stack Developer with 2+ years of experience building full-stack web applications using MongoDB, Express.js, React, and Node.js.
+Hi there, I'm Sanaul Ansari!
 
-💻 I have a strong understanding of the MERN stack and enjoy building scalable, real-world applications with clean and maintainable code.
+🚀 I'm a MERN Stack Developer with 2+ years of hands-on experience building full-stack web applications using MongoDB, Express.js, React, and Node.js. I specialize in writing clean, scalable, and maintainable code tailored for real-world applications.
 
-🎥 I'm also a content creator on YouTube, where I share project-based tutorials focused on helping beginners learn and build with the MERN stack.
+👨‍💻 Currently, I'm leading projects and managing a development team, ensuring timely delivery, best practices, and high-quality solutions. I thrive in collaborative environments and take pride in mentoring junior developers and guiding teams to success.
 
-📌 I'm passionate about learning, teaching, and contributing to the developer community. Feel free to explore my repositories and connect!
-<!---
-SanaulAnsari09/SanaulAnsari09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎥 Outside of my development work, I'm a content creator on YouTube, where I share project-based tutorials focused on MERN stack development. My goal is to help beginners and aspiring developers learn by building.
+
+💡 I'm passionate about software development, tech education, and constantly exploring new technologies to stay ahead in the ever-evolving world of web development.
+
+📬 Feel free to explore my repositories, check out my tutorials, and connect with me. I'm always open to learning, teaching, and collaborating with fellow developers!
